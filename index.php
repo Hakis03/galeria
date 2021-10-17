@@ -30,7 +30,7 @@
                 </form>  
                 <br />  
                 <br />  
-                <button type="button"><a href="galeria.php">Gallery</a></button>
+                <a href="galeria.php"><input type="button" value="Gallery"  class="btn btn-info"></button></a>
            </div>  
       </body>  
  </html>  
